@@ -1,69 +1,353 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",3sat
-http://20.243.16.116:1234/stream/JoynDE/3sat/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ecXMjNl.png",Arte
-http://20.243.16.116:1234/stream/JoynDE/Arte/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png",Bloomberg
-http://20.243.16.116:1234/stream/JoynDE/Bloomberg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/26s6V64.png",BR Fernsehen Süd
-http://20.243.16.116:1234/stream/JoynDE/BR%20Fernsehen%20S%C3%BCd/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png",DMAX
-http://20.243.16.116:1234/stream/JoynDE/DMAX/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/282zLCo.png",eSPORTS1
-http://20.243.16.116:1234/stream/JoynDE/eSPORTS1/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dGNscPB.png",Hessischer Rundfunk
-http://20.243.16.116:1234/stream/JoynDE/Hessischer%20Rundfunk/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png",N24 Doku
-http://20.243.16.116:1234/stream/JoynDE/N24%20Doku/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/df3yY8W.png",NDR Hamburg
-http://20.243.16.116:1234/stream/JoynDE/NDR%20Hamburg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png",NDR Niedersachsen
-http://20.243.16.116:1234/stream/JoynDE/NDR%20Niedersachsen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png",NDR Schleswig-Holstein
-http://20.243.16.116:1234/stream/JoynDE/NDR%20Schleswig-Holstein/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/NickelodeonNZ-2010.svg/512px-NickelodeonNZ-2010.svg.png",Nick
-http://20.243.16.116:1234/stream/JoynDE/Nick/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png",ONE
-http://20.243.16.116:1234/stream/JoynDE/ONE/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1532t9.png",Phoenix
-http://20.243.16.116:1234/stream/JoynDE/Phoenix/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ProSieben_FUN_Logo_2021.svg/512px-ProSieben_FUN_Logo_2021.svg.png",ProSieben FUN
-http://20.243.16.116:1234/stream/JoynDE/ProSieben%20FUN/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wsTOcuX.png",Radio Bremen
-http://20.243.16.116:1234/stream/JoynDE/Radio%20Bremen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png",RBB Berlin
-http://20.243.16.116:1234/stream/JoynDE/RBB%20Berlin/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aXFZnUY.png",RBB Brandenburg
-http://20.243.16.116:1234/stream/JoynDE/RBB%20Brandenburg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wMZ8Em.png",RiC
-http://20.243.16.116:1234/stream/JoynDE/RiC/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/512px-SAT.1_emotions_Logo_2019.png",SAT.1 emotions
-http://20.243.16.116:1234/stream/JoynDE/SAT.1%20emotions/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png",Sport1
-http://20.243.16.116:1234/stream/JoynDE/Sport1/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png",SPORT1+
-http://20.243.16.116:1234/stream/JoynDE/SPORT1+/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92XNBmr.png",SR
-http://20.243.16.116:1234/stream/JoynDE/SR/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png",SWR Baden-Württemberg
-http://20.243.16.116:1234/stream/JoynDE/SWR%20Baden-W%C3%BCrttemberg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LH0Gctv.png",Tagesschau 24
-http://20.243.16.116:1234/stream/JoynDE/Tagesschau%2024/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/512px-Tele_5_Logo_2021.svg.png",Tele 5
-http://20.243.16.116:1234/stream/JoynDE/Tele%205/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",TLC
-http://20.243.16.116:1234/stream/JoynDE/TLC/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1,WDR Aachen
-http://20.243.16.116:1234/stream/JoynDE/WDR%20Aachen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png",WDR Bielefeld
-http://20.243.16.116:1234/stream/JoynDE/WDR%20Bielefeld/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png",WDR Duisburg
-http://20.243.16.116:1234/stream/JoynDE/WDR%20Duisburg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1,WDR Essen
-http://20.243.16.116:1234/stream/JoynDE/WDR%20Essen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1,WDR Köln
-http://20.243.16.116:1234/stream/JoynDE/WDR%20K%C3%B6ln/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1,WDR Siegen
-http://20.243.16.116:1234/stream/JoynDE/WDR%20Siegen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png",WDR Wuppertal
-http://20.243.16.116:1234/stream/JoynDE/WDR%20Wuppertal/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="play" tvg-id="play/5starmaxhd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] 5StarMAX HD
+https://tv.tv985.com/stream/play/5starmaxhd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:2 group-title="play" tvg-id="play/accnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] ACC Network
+https://tv.tv985.com/stream/play/accnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:3 group-title="play" tvg-id="play/accuweather" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] AccuWeather
+https://tv.tv985.com/stream/play/accuweather/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:4 group-title="play" tvg-id="play/amc" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] AMC
+https://tv.tv985.com/stream/play/amc/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:5 group-title="play" tvg-id="play/angermanagement" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Anger Management
+https://tv.tv985.com/stream/play/angermanagement/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:6 group-title="play" tvg-id="play/animalplanet" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Animal Planet
+https://tv.tv985.com/stream/play/animalplanet/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:7 group-title="play" tvg-id="play/arewethereyet" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Are We There Yet
+https://tv.tv985.com/stream/play/arewethereyet/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:8 group-title="play" tvg-id="play/aspire" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] ASPIRE
+https://tv.tv985.com/stream/play/aspire/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:9 group-title="play" tvg-id="play/axmen" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Ax Men
+https://tv.tv985.com/stream/play/axmen/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:10 group-title="play" tvg-id="play/axstv" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] AXS TV
+https://tv.tv985.com/stream/play/axstv/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:11 group-title="play" tvg-id="play/ballysportsgreatlakes" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports Great Lakes
+https://tv.tv985.com/stream/play/ballysportsgreatlakes/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:12 group-title="play" tvg-id="play/ballysportsindiana" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports Indiana
+https://tv.tv985.com/stream/play/ballysportsindiana/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:13 group-title="play" tvg-id="play/ballysportsneworleans" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports New Orleans
+https://tv.tv985.com/stream/play/ballysportsneworleans/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:14 group-title="play" tvg-id="play/ballysportsneworleansextra" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports New Orleans Extra
+https://tv.tv985.com/stream/play/ballysportsneworleansextra/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:15 group-title="play" tvg-id="play/ballysportssouthextra" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports South Extra
+https://tv.tv985.com/stream/play/ballysportssouthextra/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:16 group-title="play" tvg-id="play/ballysportssouthwest" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports Southwest
+https://tv.tv985.com/stream/play/ballysportssouthwest/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:17 group-title="play" tvg-id="play/ballysportswisconsinextra" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bally Sports Wisconsin Extra
+https://tv.tv985.com/stream/play/ballysportswisconsinextra/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:18 group-title="play" tvg-id="play/bbcnews" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] BBC News
+https://tv.tv985.com/stream/play/bbcnews/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:19 group-title="play" tvg-id="play/bigtennetworkoverflow2" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Big Ten Network Overflow 2
+https://tv.tv985.com/stream/play/bigtennetworkoverflow2/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:20 group-title="play" tvg-id="play/bigtennetworkoverflow3" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Big Ten Network Overflow 3
+https://tv.tv985.com/stream/play/bigtennetworkoverflow3/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:21 group-title="play" tvg-id="play/bigtennetworkoverflow4" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Big Ten Network Overflow 4
+https://tv.tv985.com/stream/play/bigtennetworkoverflow4/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:22 group-title="play" tvg-id="play/bobrosschannel" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Bob Ross Channel
+https://tv.tv985.com/stream/play/bobrosschannel/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:23 group-title="play" tvg-id="play/boomerang" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Boomerang
+https://tv.tv985.com/stream/play/boomerang/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:24 group-title="play" tvg-id="play/cartoonnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Cartoon Network
+https://tv.tv985.com/stream/play/cartoonnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:25 group-title="play" tvg-id="play/cheddarnews" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Cheddar News
+https://tv.tv985.com/stream/play/cheddarnews/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:26 group-title="play" tvg-id="play/cnnenespanol" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] CNN en Espanol
+https://tv.tv985.com/stream/play/cnnenespanol/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:27 group-title="play" tvg-id="play/coldcasefiles" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Cold Case Files
+https://tv.tv985.com/stream/play/coldcasefiles/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:28 group-title="play" tvg-id="play/comedydynamics" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Comedy Dynamics
+https://tv.tv985.com/stream/play/comedydynamics/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:29 group-title="play" tvg-id="play/courttv" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Court TV
+https://tv.tv985.com/stream/play/courttv/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:30 group-title="play" tvg-id="play/crime360" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Crime 360
+https://tv.tv985.com/stream/play/crime360/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:31 group-title="play" tvg-id="play/daystar" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Daystar
+https://tv.tv985.com/stream/play/daystar/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:32 group-title="play" tvg-id="play/discoveryfamilychannel" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Discovery Family Channel
+https://tv.tv985.com/stream/play/discoveryfamilychannel/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:33 group-title="play" tvg-id="play/disneychannelhd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Disney Channel HD
+https://tv.tv985.com/stream/play/disneychannelhd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:34 group-title="play" tvg-id="play/elreyrebel" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] El Rey Rebel
+https://tv.tv985.com/stream/play/elreyrebel/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:35 group-title="play" tvg-id="play/espn2" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] ESPN2
+https://tv.tv985.com/stream/play/espn2/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:36 group-title="play" tvg-id="play/fightnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Fight Network
+https://tv.tv985.com/stream/play/fightnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:37 group-title="play" tvg-id="play/foodnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Food Network
+https://tv.tv985.com/stream/play/foodnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:38 group-title="play" tvg-id="play/foxkftavanburenar72956" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX (KFTA) Van Buren AR 72956
+https://tv.tv985.com/stream/play/foxkftavanburenar72956/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:39 group-title="play" tvg-id="play/foxkfbbd2blackeaglemt59414" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KFBB-D2 Black Eagle MT 59414
+https://tv.tv985.com/stream/play/foxkfbbd2blackeaglemt59414/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:40 group-title="play" tvg-id="play/foxkffxyakimawa98902" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KFFX Yakima WA 98902
+https://tv.tv985.com/stream/play/foxkffxyakimawa98902/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:41 group-title="play" tvg-id="play/foxkfoxelpasotx79912" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KFOX El Paso TX 79912
+https://tv.tv985.com/stream/play/foxkfoxelpasotx79912/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:42 group-title="play" tvg-id="play/foxkfyrd2bismarcknd58501" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KFYR-D2 Bismarck ND 58501
+https://tv.tv985.com/stream/play/foxkfyrd2bismarcknd58501/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:43 group-title="play" tvg-id="play/foxkjtvlubbocktx79423" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KJTV Lubbock TX 79423
+https://tv.tv985.com/stream/play/foxkjtvlubbocktx79423/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:44 group-title="play" tvg-id="play/foxkmphfresnoca93727" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KMPH Fresno CA 93727
+https://tv.tv985.com/stream/play/foxkmphfresnoca93727/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:45 group-title="play" tvg-id="play/foxkokhoklahomacityok73111" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KOKH Oklahoma City OK 73111
+https://tv.tv985.com/stream/play/foxkokhoklahomacityok73111/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:46 group-title="play" tvg-id="play/foxkpthdunessd57049" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KPTH Dunes SD 57049
+https://tv.tv985.com/stream/play/foxkpthdunessd57049/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:47 group-title="play" tvg-id="play/foxksaswichitaks67203" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KSAS Wichita KS 67203
+https://tv.tv985.com/stream/play/foxksaswichitaks67203/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:48 group-title="play" tvg-id="play/foxktmjcatopekaks66618" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KTMJ-CA Topeka KS 66618
+https://tv.tv985.com/stream/play/foxktmjcatopekaks66618/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:49 group-title="play" tvg-id="play/foxkwktwacotx76712" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KWKT Waco TX 76712
+https://tv.tv985.com/stream/play/foxkwktwacotx76712/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:50 group-title="play" tvg-id="play/foxkxltrochestermn55901" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KXLT Rochester MN 55901
+https://tv.tv985.com/stream/play/foxkxltrochestermn55901/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:51 group-title="play" tvg-id="play/foxkxrmspringsco80915" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-KXRM Springs CO 80915
+https://tv.tv985.com/stream/play/foxkxrmspringsco80915/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:52 group-title="play" tvg-id="play/foxwagaaugustaga30907" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WAGA Augusta GA 30907
+https://tv.tv985.com/stream/play/foxwagaaugustaga30907/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:53 group-title="play" tvg-id="play/foxwdkylexingtonky40502" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WDKY Lexington KY 40502
+https://tv.tv985.com/stream/play/foxwdkylexingtonky40502/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:54 group-title="play" tvg-id="play/foxwemtbristolva24201" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WEMT Bristol VA 24201
+https://tv.tv985.com/stream/play/foxwemtbristolva24201/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:55 group-title="play" tvg-id="play/foxwfftwaynein46808" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WFFT Wayne IN 46808
+https://tv.tv985.com/stream/play/foxwfftwaynein46808/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:56 group-title="play" tvg-id="play/foxwfxrroanokeva24015" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WFXR Roanoke VA 24015
+https://tv.tv985.com/stream/play/foxwfxrroanokeva24015/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:57 group-title="play" tvg-id="play/foxwgmbbatonrougela70810" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WGMB Baton Rouge LA 70810
+https://tv.tv985.com/stream/play/foxwgmbbatonrougela70810/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:58 group-title="play" tvg-id="play/foxwpfoportlandme04101" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WPFO Portland ME 04101
+https://tv.tv985.com/stream/play/foxwpfoportlandme04101/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:59 group-title="play" tvg-id="play/foxwpghpittsburghpa15214" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WPGH Pittsburgh PA 15214
+https://tv.tv985.com/stream/play/foxwpghpittsburghpa15214/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:60 group-title="play" tvg-id="play/foxwrspspringfieldil62703" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WRSP Springfield IL 62703
+https://tv.tv985.com/stream/play/foxwrspspringfieldil62703/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:61 group-title="play" tvg-id="play/foxwvfxbridgeportwv26330" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WVFX Bridgeport WV 26330
+https://tv.tv985.com/stream/play/foxwvfxbridgeportwv26330/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:62 group-title="play" tvg-id="play/foxwxixcincinnatioh45203" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WXIX Cincinnati OH 45203
+https://tv.tv985.com/stream/play/foxwxixcincinnatioh45203/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:63 group-title="play" tvg-id="play/foxwzawldmilwaukeewi53209" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WZAW-LD Milwaukee WI 53209
+https://tv.tv985.com/stream/play/foxwzawldmilwaukeewi53209/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:64 group-title="play" tvg-id="play/foxwzawldwausauwi54403" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WZAW-LD Wausau WI 54403
+https://tv.tv985.com/stream/play/foxwzawldwausauwi54403/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:65 group-title="play" tvg-id="play/foxwztvnashvilletn37228" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] FOX-WZTV Nashville TN 37228
+https://tv.tv985.com/stream/play/foxwztvnashvilletn37228/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:66 group-title="play" tvg-id="play/fueltv" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Fuel TV
+https://tv.tv985.com/stream/play/fueltv/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:67 group-title="play" tvg-id="play/hallmarkchannel" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Hallmark Channel
+https://tv.tv985.com/stream/play/hallmarkchannel/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:68 group-title="play" tvg-id="play/hbozonehd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] HBO Zone HD
+https://tv.tv985.com/stream/play/hbozonehd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:69 group-title="play" tvg-id="play/hgtv" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] HGTV
+https://tv.tv985.com/stream/play/hgtv/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:70 group-title="play" tvg-id="play/infast" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] INFAST
+https://tv.tv985.com/stream/play/infast/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:71 group-title="play" tvg-id="play/marqueesportsnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Marquee Sports Network
+https://tv.tv985.com/stream/play/marqueesportsnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:72 group-title="play" tvg-id="play/meateater" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] MeatEater
+https://tv.tv985.com/stream/play/meateater/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:73 group-title="play" tvg-id="play/metv" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] MeTV
+https://tv.tv985.com/stream/play/metv/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:74 group-title="play" tvg-id="play/mntkzjoghentwv25843" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] MNT-KZJO Ghent WV 25843
+https://tv.tv985.com/stream/play/mntkzjoghentwv25843/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:75 group-title="play" tvg-id="play/mntkzjoseattlewa98109" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] MNT-KZJO Seattle WA 98109
+https://tv.tv985.com/stream/play/mntkzjoseattlewa98109/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:76 group-title="play" tvg-id="play/modernmarvels" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Modern Marvels
+https://tv.tv985.com/stream/play/modernmarvels/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:77 group-title="play" tvg-id="play/msgalt3" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] MSG ALT-3
+https://tv.tv985.com/stream/play/msgalt3/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:78 group-title="play" tvg-id="play/mynetkptmd2omahane68132" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] MyNet-KPTM-D2 Omaha NE 68132
+https://tv.tv985.com/stream/play/mynetkptmd2omahane68132/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:79 group-title="play" tvg-id="play/nesn" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] NESN
+https://tv.tv985.com/stream/play/nesn/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:80 group-title="play" tvg-id="play/newsnation" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] NewsNation
+https://tv.tv985.com/stream/play/newsnation/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:81 group-title="play" tvg-id="play/ovationhd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Ovation HD
+https://tv.tv985.com/stream/play/ovationhd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:82 group-title="play" tvg-id="play/own" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] OWN
+https://tv.tv985.com/stream/play/own/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:83 group-title="play" tvg-id="play/paramountwithshowtimeeasthd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Paramount+ with Showtime East HD
+https://tv.tv985.com/stream/play/paramountwithshowtimeeasthd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:84 group-title="play" tvg-id="play/playerstv" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Players TV
+https://tv.tv985.com/stream/play/playerstv/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:85 group-title="play" tvg-id="play/pokergo" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] PokerGo
+https://tv.tv985.com/stream/play/pokergo/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:86 group-title="play" tvg-id="play/powernation" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] PowerNation
+https://tv.tv985.com/stream/play/powernation/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:87 group-title="play" tvg-id="play/qvc3" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] QVC3
+https://tv.tv985.com/stream/play/qvc3/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:88 group-title="play" tvg-id="play/scrippsnews" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Scripps News
+https://tv.tv985.com/stream/play/scrippsnews/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:89 group-title="play" tvg-id="play/secnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] SEC Network
+https://tv.tv985.com/stream/play/secnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:90 group-title="play" tvg-id="play/shoplc" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Shop LC
+https://tv.tv985.com/stream/play/shoplc/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:91 group-title="play" tvg-id="play/showtimenexthd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Showtime Next HD
+https://tv.tv985.com/stream/play/showtimenexthd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:92 group-title="play" tvg-id="play/somosnovelas" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Somos Novelas
+https://tv.tv985.com/stream/play/somosnovelas/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:93 group-title="play" tvg-id="play/spacecityhomenetworkalternate" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Space City Home Network Alternate
+https://tv.tv985.com/stream/play/spacecityhomenetworkalternate/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:94 group-title="play" tvg-id="play/starzcomedyhd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] STARZ Comedy HD
+https://tv.tv985.com/stream/play/starzcomedyhd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:95 group-title="play" tvg-id="play/starzeast" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] STARZ East
+https://tv.tv985.com/stream/play/starzeast/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:96 group-title="play" tvg-id="play/tastemadetravel" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Tastemade Travel
+https://tv.tv985.com/stream/play/tastemadetravel/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:97 group-title="play" tvg-id="play/tennischannelhd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Tennis Channel HD
+https://tv.tv985.com/stream/play/tennischannelhd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:98 group-title="play" tvg-id="play/thedesignnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] The Design Network
+https://tv.tv985.com/stream/play/thedesignnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:99 group-title="play" tvg-id="play/thefirst" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] The First
+https://tv.tv985.com/stream/play/thefirst/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:100 group-title="play" tvg-id="play/tmokasaalbuquerquenm87104" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TMO-KASA Albuquerque NM 87104
+https://tv.tv985.com/stream/play/tmokasaalbuquerquenm87104/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:101 group-title="play" tvg-id="play/tmokblrhendersonnv89014" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TMO-KBLR Henderson NV 89014
+https://tv.tv985.com/stream/play/tmokblrhendersonnv89014/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:102 group-title="play" tvg-id="play/tmokstsoaklandca94607" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TMO-KSTS Oakland CA 94607
+https://tv.tv985.com/stream/play/tmokstsoaklandca94607/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:103 group-title="play" tvg-id="play/tmokxtxdallastx75202" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TMO-KXTX Dallas TX 75202
+https://tv.tv985.com/stream/play/tmokxtxdallastx75202/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:104 group-title="play" tvg-id="play/tmowwsidoverde19901" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TMO-WWSI Dover, DE 19901
+https://tv.tv985.com/stream/play/tmowwsidoverde19901/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:105 group-title="play" tvg-id="play/tnt" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TNT
+https://tv.tv985.com/stream/play/tnt/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:106 group-title="play" tvg-id="play/tudn" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TUDN
+https://tv.tv985.com/stream/play/tudn/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:107 group-title="play" tvg-id="play/tvland" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TV Land
+https://tv.tv985.com/stream/play/tvland/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:108 group-title="play" tvg-id="play/tvone" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] TV One
+https://tv.tv985.com/stream/play/tvone/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:109 group-title="play" tvg-id="play/univisionkdtvoaklandca94607" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Univision-KDTV Oakland CA 94607
+https://tv.tv985.com/stream/play/univisionkdtvoaklandca94607/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:110 group-title="play" tvg-id="play/univisionkxlnhoustontx77027" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Univision-KXLN Houston TX 77027
+https://tv.tv985.com/stream/play/univisionkxlnhoustontx77027/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:111 group-title="play" tvg-id="play/univisionwgbochicagoil60601" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Univision-WGBO Chicago IL 60601
+https://tv.tv985.com/stream/play/univisionwgbochicagoil60601/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:112 group-title="play" tvg-id="play/unxplainedzone" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] UnXplained Zone
+https://tv.tv985.com/stream/play/unxplainedzone/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:113 group-title="play" tvg-id="play/vh1" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] VH1
+https://tv.tv985.com/stream/play/vh1/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:114 group-title="play" tvg-id="play/willowhd" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Willow HD
+https://tv.tv985.com/stream/play/willowhd/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:115 group-title="play" tvg-id="play/willowxtra" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Willow Xtra
+https://tv.tv985.com/stream/play/willowxtra/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:116 group-title="play" tvg-id="play/womenssportsnetwork" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Womens Sports Network
+https://tv.tv985.com/stream/play/womenssportsnetwork/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
+#EXTINF:117 group-title="play" tvg-id="play/yahoofinance" tvg-logo="" provider="play" provider-logo="" provider-type="iptv",[play] Yahoo Finance
+https://tv.tv985.com/stream/play/yahoofinance/master.m3u8?u=strixdev&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+
